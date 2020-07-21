@@ -1,0 +1,33 @@
+html{
+  border-style: dashed;
+}
+
+body{
+  margin: 50px;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  font-style: italic;
+  font-size: 35px; 
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  color: black;
+  font-size: 25px; 
+}
+
+img{
+  text-align: center; 
+}
